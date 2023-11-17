@@ -21,7 +21,7 @@ only motivation they need to embark on the software journey. Others are intrigue
 remote work, or working with computers all day. There are many reasons to want to get into the field and I am not here to say that any are 
 better than any others, I will just provide some advice based on the anecdotal experience of me, and some of my much more experienced colleages.
 </p>
-<h4>Are you in school?</h2>
+<h4>Are you in school?</h4>
 <strong>Yes</strong> -> Great! Pay attention and enjoy the ride! <br/>
 <strong>No</strong> -> Go to school!<br/>
 
